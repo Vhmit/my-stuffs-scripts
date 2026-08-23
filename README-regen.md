@@ -14,5 +14,5 @@ Examples:
   ./regen.sh -c
 
 ```
-wget https://raw.githubusercontent.com/Vhmit/my-stuffs-scripts/regen.sh && chmod +x regen.sh
+wget https://raw.githubusercontent.com/Vhmit/my-stuffs-scripts/master/regen.sh && chmod +x regen.sh
 ```
